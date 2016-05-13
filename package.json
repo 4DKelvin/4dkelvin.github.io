@@ -1,0 +1,22 @@
+{
+  "name": "4dkelvin.github.io",
+  "version": "1.0.0",
+  "description": "my resume",
+  "main": "release.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4DKelvin/4dkelvin.github.io.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "kelvin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4DKelvin/4dkelvin.github.io/issues"
+  },
+  "homepage": "https://github.com/4DKelvin/4dkelvin.github.io#readme"
+}
